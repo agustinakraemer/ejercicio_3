@@ -1,0 +1,61 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #2f6627;
+}
+
+.nav-link {
+    color: #2f6627 !important;
+    font-size: 1rem;
+}
+
+.navbar-icons i {
+    color: #2f6627;
+    font-size: 1.2rem;
+}
+
+h1 {
+    color: #2f6627;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #6c757d;
+}
+
+.testimonial {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #2f6627;
+}
+
+.badge-warning {
+    background-color: #ffc107;
+    font-size: 1rem;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
